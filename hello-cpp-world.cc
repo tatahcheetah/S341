@@ -2,8 +2,6 @@
 #include <time.h>
 
 int main() {
-    
-    int count=0;
     std::srand(time(NULL));
     
     for (int i = 1; i <= 100; i++) {
